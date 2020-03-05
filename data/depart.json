@@ -1,0 +1,29 @@
+{
+  "add_depart":{
+    "name":"挖坑1部",
+    "code":"1320",
+    "status_code":200,
+    "success":true,
+    "response_code":10000,
+    "message":"操作成功"
+  },
+  "search_depart":{
+    "status_code":200,
+    "success":true,
+    "response_code":10000,
+    "message":"操作成功"
+  },
+  "modify_depart":{
+    "name":"填坑1部",
+    "status_code":200,
+    "success":true,
+    "response_code":10000,
+    "message":"操作成功"
+  },
+  "delete_depart":{
+    "status_code":200,
+    "success":true,
+    "response_code":10000,
+    "message":"操作成功"
+  }
+}

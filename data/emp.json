@@ -1,0 +1,29 @@
+{
+  "add_emp":{
+    "username":"jojo",
+    "mobile":"16004430428",
+    "status_code":200,
+    "success":true,
+    "code":10000,
+    "message":"操作成功"
+  },
+  "search_emp":{
+    "status_code":200,
+    "success":true,
+    "code":10000,
+    "message":"操作成功"
+  },
+  "modify_emp":{
+    "username":"new_jojo",
+    "status_code":200,
+    "success":true,
+    "code":10000,
+    "message":"操作成功"
+  },
+  "delete_emp":{
+    "status_code":200,
+    "success":true,
+    "code":10000,
+    "message":"操作成功"
+  }
+}
